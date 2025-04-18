@@ -12,7 +12,7 @@ This code uses GNURadio to apply matched filtering to different types of pulse s
 1. Cosine Wave
 2. (Add more, check out GNURadio signal catalog)
 
-The width of the pulse can be controlled by varying the (VARIABLENAME) parameter. 
-The frequency of the signal can be controlled by varying the (VARIABLENAME) parameter. 
-The amplitude of the signal can be controlled by varying the (VARIABLENAME) parameter. 
+The width of the pulse can be controlled by varying the (VARIABLENAME) parameter./n
+The frequency of the signal can be controlled by varying the (VARIABLENAME) parameter./n
+The amplitude of the signal can be controlled by varying the (VARIABLENAME) parameter./n
 (POTENTIALLY ADD DISTANCE OF THE PLANE PARAMETER IF I HAVE TIME?)
