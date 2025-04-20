@@ -4,10 +4,7 @@ Matched filtering is a process by which a noisy signal is autocorrelated with a 
 
 Notably, certain pulse shapes and properties make the return signal easier to detect even at very low SNR. Within this demonstration, several different pulse shapes will be used to compare and potentially iteratively optimize the best radar pulse for detection at low SNR. There are two primary goals in this endeavor, which are to minimize transmission amplitude and pulse width. Minimizing these parameters will lead to the cheapest possible radar pulse that will still be able to effectively detect aircraft at low SNR.
 
-This code uses GNURadio to apply matched filtering to different types of pulse signals. The following types of signals are included within the code
-
-1. Cosine Wave
-2. Triangle Wave
+This code uses GNURadio to apply matched filtering to different types of pulse signals. Any type of signal included in the basic signal generator can be used in this code, but replacing this block with other types of signals is welcome and encouraged.
 
 The number of cycles of the pulse can be controlled by varying the Num_Cycles parameter.\
 The frequency of the signal can be controlled by varying the Freq parameter.\
