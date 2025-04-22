@@ -9,4 +9,4 @@ This code uses GNURadio to apply matched filtering to different types of pulse s
 The number of cycles of the pulse can be controlled by varying the Num_Cycles parameter.\
 The frequency of the signal can be controlled by varying the Freq parameter.\
 The amplitude of the signal can be controlled by varying the Sig_Amp parameter.\
-The real distance of the target from the detector can be controlled by varying the dist parameter (Note: This parameter is measured in meters(M).\
+The real distance of the target from the detector can be controlled by varying the dist parameter (Note: This parameter is measured in meters(m).
